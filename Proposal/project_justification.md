@@ -35,6 +35,8 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 * Would there be different enemy variants? would they all hurt the player though contact damage or would some have ranged attacks?
 > Right now all I need is a stationary hazard and I think an enemy that can patrol between two points as suggested by another team-member.
 
+* Would players have a value for health or would they die from a single enemy hit?
+> Player death would be a great addition if it can be done. Resetting them back to the start on damage would be fine enough.
 
 ---
 
