@@ -10,6 +10,7 @@ The client is seeking a sidescrolling retro 2D platformer game (like the origina
 * Enemies
 * Player 
 * Pickups
+
 The player character should be able to:
 * Walk
 * Run
