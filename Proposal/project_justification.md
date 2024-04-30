@@ -5,11 +5,16 @@
 
 ### Brief
 [//]: # (What was the client's brief?)
-The client is seeking a sidescrolling retro 2D platformer game where they can add their own art. The game needs to be organised in a way that they can develop the:
+The client is seeking a sidescrolling retro 2D platformer game (like the original Mario) where they can add their own art. The game needs to be organised in a way that they can develop the:
 * Levels
 * Enemies
 * Player 
 * Pickups
+The player character should be able to:
+* Walk
+* Run
+* Jump
+* Be damaged
 
 ### Communication
 * Would you like an animation controller set-up on the player? (Differing jump, sprint, damage taken sprites?)
