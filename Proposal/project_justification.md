@@ -5,10 +5,11 @@
 
 ### Brief
 [//]: # (What was the client's brief?)
-The client is seeking a proof of concept for a game that is simple, yet a leader in its class
-* Users should be drawn to the game by its eye-catching visuals
-* The audio in the game should be exciting and drive the player's emotion
-* The gameplay should be fast-paced, quick to gain feedback and quick to retry
+The client is seeking a sidescrolling retro 2D platformer game where they can add their own art. The game needs to be organised in a way that they can develop the:
+* Levels
+* Enemies
+* Player 
+* Pickups
 
 ### Communication
 * Would you like an animation controller set-up on the player? (Differing jump, sprint, damage taken sprites?)
