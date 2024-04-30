@@ -11,20 +11,30 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 * The gameplay should be fast-paced, quick to gain feedback and quick to retry
 
 ### Communication
-* When do you need this prototype by?
-> I need the prototype by Friday Week 13.
+* Would you like an animation controller set-up on the player? (Differing jump, sprint, damage taken sprites?)
+> For the scope of this project I'm fine with a box or capsule moving around without an animation controller.
 
-* What kind of games do you think are good?
-> Couch coop games appear to be simple enough to develop and can move reasonable units if done well.
+* Should the enemies patrol between two points as well as be stationary? Would you like an animation que in their movement/death?
+> I would love to have a patrolling system! I would just like to be able to use it easily and change the points.
 
-* Since you only need a prototype, are you happy for us to focus on gameplay and use based geometry for art assets?
-> Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
+* We're looking to add a speed/jump-boost so that you can modify it later. Would this be acceptable?
+> A speed and jump boost sounds perfect! Thank you.
 
-* Do you need a menu system?
-> Well I need to be able to take this to potential investors to sell the idea. If I need to quit out of it every time I finish that will not work. It will need basic UI functionality, pausing, quitting out of game, exiting the application, returning to main menu, playing the game from main menu.
+* In your job posting, you say that you'd like the game to be similar to old-school Mario games. Do you mean that in just the gameplay sense, or also the aesthetic and graphical sense (e.g. low resolution pixel art)?
+> Mario is the inspiration in gameplay and it's simple aesthetic. Although I would like to put my own art in and I'm probably not going down a pixel art path. 
 
-* Are there any themes you think are popular or you would like to see in your game?
-> Hmm... not really. I do like dragons though! I think silly games catch people's eyes?
+* Is a start-screen and some in-game UI required?
+> I wouldn't need any start-screen or in-game UI for the scope of this project.
+
+* Would there be a way for players to damage enemies? Such as landing on them like in Mario?
+> At this point there doesn't need to be a way to damage enemies. 
+
+* Would there be any movement mechanics other than simple running and jumping? Like double jumping, dashing, etc.
+> I don't need any double jumping or dashing at this point!
+
+* Would there be different enemy variants? would they all hurt the player though contact damage or would some have ranged attacks?
+> Right now all I need is a stationary hazard and I think an enemy that can patrol between two points as suggested by another team-member.
+
 
 ---
 
