@@ -45,6 +45,15 @@ The player character should be able to:
 * Would players have a value for health or would they die from a single enemy hit?
 > Player death would be a great addition if it can be done. Resetting them back to the start on damage would be fine enough.
 
+* Seeing as you are handling the whole aesthetic and artistic side of the game, what is the working name for the game that you have considered?
+> I'd like to call the WIP project name "Velvet Thunder". Thanks for asking!
+
+* Should the player be centered in the middle of the camera or offset to the left a bit to let the player see further to the right?
+> I'd like it to replicate the same camera from the retro Mario platformer games. I think it's a little to the right.
+
+* Do you expect any complications outside of our team's control to arise midway through the project? Let me know if there are any that come to mind.
+> There's no complications here! I'm not really at any crucial position to effect the projects progress. 
+
 ---
 
 ## Project Understanding
