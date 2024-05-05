@@ -102,9 +102,8 @@ The player can collect powerups to more effectively complete levels and defeat e
 ## Milestones
 [//]: # (Breakdown of phases of development, with estimated delivery times)
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
-EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 
-| Phase | Completion Date |
+| Phase | Estimated Completion Date |
 | --- | --- |
 | Level One + Basic Player Movement | Week 10 |
 | Enemy Implementation + Player Damage | Week 11 |
