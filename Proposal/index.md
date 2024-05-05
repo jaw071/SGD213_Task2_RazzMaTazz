@@ -1,29 +1,3 @@
-# Project Overview
-[//]: # (This section is an example structure for the proposal to your client.)
-
->This is all sample material in here, to give you an idea on how and what to populate each section with. If you think of other sections or a different document layout, please do use it!
-
-## Design
-[//]: # (How will you meet the client's brief, their expectations, and their requirements.)
-
-### Project Name
-Donuts, Daggers & Dragons and other things and things bahhhhh
-
-### Description
-[//]: # (This is the elevator pitch, sell the idea)
-Players play as humanoid donuts trained in the art of ninjitsu. 
-Players cooperate in teams of 2 to overcome the other teams in an arena-style, top-down, dagger-throwing, action-brawler. 
-After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
-
-### Begin Date
-
-### End Date
-
-### Justification
-Read the design justification [here](project_justification.md).
-
----
-
 ## Statement of Works
 [//]: # (This section is about managing expectations; list out all of the qualities that will be in the final product)
 
