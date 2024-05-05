@@ -143,9 +143,9 @@ The player can collect powerups to more effectively complete levels and defeat e
 ## Constraints
 
 ### Constraints
-EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 [//]: # (What are the constraints of this project)
 * We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
+* Hours per day are limited as each team member has other commitments they need to attend to aswell, which limits how much we can do in the tight timeframe
 
 ---
 
