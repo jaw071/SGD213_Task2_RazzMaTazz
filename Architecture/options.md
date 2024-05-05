@@ -3,7 +3,7 @@
 
 ### Option 1
 
- - architecture will consist of several unique game objects that make
+ - Architecture will consist of several unique game objects that make
    use of the component design pattern.
  - The game objects will include the player, a stationary enemy, a   
    patrolling enemy, and the game camera.
