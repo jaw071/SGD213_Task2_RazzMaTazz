@@ -68,7 +68,7 @@ The player can collect powerups to more effectively complete levels and defeat e
 
 ---
 
-## Project Understanding
+## Project Understanding After Communication
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
