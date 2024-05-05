@@ -89,14 +89,14 @@ The player can collect powerups to more effectively complete levels and defeat e
     * Use placeholder basic shapes in Unity
 * Does **not** require any animation for the player
 * Does **not** require the player to be able to kill enemies
-* One stationary enemy type and one patrolling enemy the moves between two editable points
+* One stationary hazard and one patrolling enemy the moves between two editable points
 * Player death functionality and reseting position on damage
 * Replicate Mario Bros camera lookahead (offset to the right)
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
-* UI art does not need to be high quality, will just use basic Unity UI sprites
-* Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+* The client will not interfere during development unless we engage them with further questions
+* Multiple fully completed levels are not needed as the client wants to build them themselves - at least 2 basic levels are needed to get level progression working however.
 ---
 
 [//]: # (### Schedule of Rates)
