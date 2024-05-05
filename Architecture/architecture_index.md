@@ -6,4 +6,4 @@ This section of the wiki discusses the technical requirements for the **2D platf
 ## Contents
 [//]: # (You need to populate these pages, they are part of your grades)
 * [Architectural Options](options.md)
-* [Chosen Architecture](architecture.md)
+* [Chosen Architecture](chosen_architecture.md)
