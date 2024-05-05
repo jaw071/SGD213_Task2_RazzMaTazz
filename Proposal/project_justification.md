@@ -28,7 +28,7 @@ The player can collect powerups to more effectively complete levels and defeat e
 ### Begin Date
 **Tuesday 23rd of April 2024** (first email contact with client accepting the project)
 ### End Date
-**Friday 31st of May, 2024 at 11:59pm**
+**Friday 31st of May, 2024 at 11:59pm** (handover of the finished project to the client)
 
 ### Communication with Client
 * Would you like an animation controller set-up on the player? (Differing jump, sprint, damage taken sprites?)
