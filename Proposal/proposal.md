@@ -102,6 +102,7 @@ The player can collect powerups to more effectively complete levels and defeat e
 ## Milestones
 [//]: # (Breakdown of phases of development, with estimated delivery times)
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
+EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 | Phase | Completion Date |
 | --- | --- |
 | Prototype | Week 13 |
@@ -110,6 +111,7 @@ The player can collect powerups to more effectively complete levels and defeat e
 ## Risks
 
 ### Risks
+EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 [//]: # (What are the risks of this project)
 * Unity and C# are excellent prototyping tools, but working quickly often means less than perfect code
     * Project may not be fit for use in further development
@@ -117,6 +119,7 @@ The player can collect powerups to more effectively complete levels and defeat e
     * Working quickly is error-prone
 
 ### Risk Management
+EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 [//]: # (How are you managing the mentioned risks)
 * All coding will aim to be designed in an extensible manner
 * Testing will be undertaken throughout prototype development
@@ -127,12 +130,14 @@ The player can collect powerups to more effectively complete levels and defeat e
 ## Constraints
 
 ### Constraints
+EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 [//]: # (What are the constraints of this project)
 * We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
 
 ---
 
 ## Justification
+EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 We really like the mention of "silly games catch people's eyes". So we took your suggestion of dragons and built on it with alliteration as a starting point. We went through many ideas, but finally came up with a title called "Donuts, Daggers & Dragons.
 
 The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
