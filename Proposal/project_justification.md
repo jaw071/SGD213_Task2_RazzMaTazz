@@ -144,7 +144,7 @@ etc. Explain your design decisions in regards to the client's requirements.
 Work will be completed to fit the provided Statement of Works, any work outside of this arrangement will be billed at our hourly rate, or quoted separately.
 
 ## Signatures
-[//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
+
 | Client Name | Date | Signature |
 | --- | --- | --- |
 | Llhiza Eamont | __-__-2024 | ________ |
