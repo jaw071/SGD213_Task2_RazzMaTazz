@@ -11,4 +11,4 @@ These are two main areas of the project that this technical document focuses on.
 
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
 * [Proposal](Proposal/index.md)
-* [Architecture](Architecture/index.md)
+* [Architecture](Architecture/architectureindex.md)
