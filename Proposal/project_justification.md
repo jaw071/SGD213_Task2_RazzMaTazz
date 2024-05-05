@@ -99,10 +99,6 @@ The player can collect powerups to more effectively complete levels and defeat e
 * Multiple fully completed levels are not needed as the client wants to build them themselves - at least 2 basic levels are needed to get level progression working however.
 ---
 
-[//]: # (### Schedule of Rates)
-[//]: # (This is where you would list your hourly rates and time estimations)
-
----
 ## Milestones
 [//]: # (Breakdown of phases of development, with estimated delivery times)
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
