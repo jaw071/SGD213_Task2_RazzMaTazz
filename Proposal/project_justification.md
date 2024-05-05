@@ -17,7 +17,7 @@ The player character should be able to:
 * Jump
 * Be damaged
 
-### Communication
+### Communication with Client
 * Would you like an animation controller set-up on the player? (Differing jump, sprint, damage taken sprites?)
 > For the scope of this project I'm fine with a box or capsule moving around without an animation controller.
 
