@@ -4,7 +4,6 @@
 ## Overview
 
 ### Brief
-[//]: # (What was the client's brief?)
 The client is seeking a sidescrolling retro 2D platformer game (like the original Mario) where they can add their own art. The game needs to be organised in a way that they can develop the:
 * Levels
 * Enemies
@@ -16,6 +15,19 @@ The player character should be able to:
 * Run
 * Jump
 * Be damaged
+
+### Project Name
+Velvet Thunder
+
+### Description
+The player plays as Mario-like character that can run and jump. 
+They navigate a 2D sidescrolling environment from left to right, completing levels that get harder and harder.
+The player can collect powerups to more effectively complete levels and defeat enemies by jumping on them.
+
+### Begin Date
+**Tuesday 23rd of April 2024** (first email contact with client accepting the project)
+### End Date
+**Friday 31st of May, 2024 at 11:59pm**
 
 ### Communication with Client
 * Would you like an animation controller set-up on the player? (Differing jump, sprint, damage taken sprites?)
