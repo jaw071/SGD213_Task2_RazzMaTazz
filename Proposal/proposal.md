@@ -25,7 +25,7 @@ They navigate a 2D sidescrolling environment from left to right, completing leve
 The player can collect powerups to more effectively complete levels and defeat enemies by jumping on them.
 
 ### Begin Date
-**Tuesday 23rd of April 2024** (first email contact with client accepting the project)
+**Tuesday 23rd of April, 2024** (first email contact with client accepting the project)
 ### End Date
 **Friday 31st of May, 2024 at 11:59pm** (handover of the finished project to the client)
 
@@ -96,7 +96,7 @@ The player can collect powerups to more effectively complete levels and defeat e
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
 * The client will not interfere during development unless we engage them with further questions
-* Multiple fully completed levels are not needed as the client wants to build them themselves - at least 2 basic levels are needed to get level progression working however.
+* Multiple fully completed levels are not needed as the client wants to build them themselves - at least 2 basic levels are needed to get level progression working however
 ---
 
 ## Milestones
