@@ -1,10 +1,8 @@
-# TOP HEADING 
+# Diagrams 
 
-This is where you outline your chosen architecture option.
+![Class Diagram](Architecture\Diagrams\ClassDiagram.png "Class Diagram")
 
-You only need UML images in this section.
+![Sequence Diagram](Architecture\Diagrams\SequenceDiagram.png "Sequence Diagram")
 
-Justify why you chose it.
-
-## Dummy Heading
-Fill this with information.
+## Justification
+Option 1 is chosen as the architecture to be implemented for the game. This is due to the benefits of breaking up game functionality into components compared to using inheritable classes. This allows the game objects to be highly modular and flexible with their design without creating redundant code which will also save on development time.
