@@ -114,19 +114,29 @@ The player can collect powerups to more effectively complete levels and defeat e
 ## Risks
 
 ### Risks
-EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 [//]: # (What are the risks of this project)
-* Unity and C# are excellent prototyping tools, but working quickly often means less than perfect code
+* Working quickly has a higher potential to produce less than perfect code
     * Project may not be fit for use in further development
     * Bugs may be present in prototype due to the short turn-around
     * Working quickly is error-prone
+* Team members may have issues with Unity or GitHub
+    * Unity instilation not working at home
+    * Pull from GitHub not working
+    * Crashes that result in progress loss
+* Implementations may take longer than expected and affect the timeline
+* Team memebers may go MIA or get put out of commission due to a terrible accident
+
 
 ### Risk Management
-EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
 [//]: # (How are you managing the mentioned risks)
 * All coding will aim to be designed in an extensible manner
 * Testing will be undertaken throughout prototype development
 * Using source control we will ensure our code is safe and usable at all times
+* Unity engine version will be the same between team members
+* Team will ensure to commit to GitHub regularly so that progress loss is limited
+* The aim will be to do high priority implemations first so that if time runs out before everything gets done that at least the most important parts are done
+* Make sure communication is regular so that if someone does go MIA it gets picked up immediately and not last minute
+* Give tasks to more than one person so that if one does go missing (or can't work on it anymore) that someone else is already on the job
 
 ---
 
