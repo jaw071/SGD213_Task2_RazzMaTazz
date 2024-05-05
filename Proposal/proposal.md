@@ -150,12 +150,9 @@ The player can collect powerups to more effectively complete levels and defeat e
 ---
 
 ## Justification
-EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
-We really like the mention of "silly games catch people's eyes". So we took your suggestion of dragons and built on it with alliteration as a starting point. We went through many ideas, but finally came up with a title called "Donuts, Daggers & Dragons.
+The client has given us reasonably straight forward specifications and anything that seemed left out was discussed with the client in correspondence and has such been clarified. This has resulted in us making very little decisions for the client and simply following what was given to us in the brief and following correspondence. 
 
-The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
-
-etc. Explain your design decisions in regards to the client's requirements.
+However, we have taken the clients suggestion of old school Mario as inspiration very seriously as we use it as a point of reference to jump off of for anything left vague.
 
 ## Agreement
 [//]: # (List out the arrangement)
