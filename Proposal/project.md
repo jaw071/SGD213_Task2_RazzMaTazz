@@ -1,4 +1,4 @@
-# Justification
+# Project Velvet Thunder
 [//]: # (This section is an example of justifying your design and development decisions.)
 
 ## Overview
