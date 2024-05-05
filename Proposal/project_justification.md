@@ -72,24 +72,26 @@ The player can collect powerups to more effectively complete levels and defeat e
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* **Needs** the product inside the deadline.
+* Game art **needs** to be modular and easily editable by the client
+* **Needs** level changing functionality
+* **Needs** to control extremely similarly to retro 2D mario games
 
 ### Expectations
 [//]: # (What are the client's expectations?)
 * Project delivered on time
-* Weekly updates on progress
-* Communication with the client when design issues encountered
-* Quality transparent project management (add the client)
+* Professional communication between the team and the client to establish expectations and requirements.
+* Prompt communication with the client when design issues encountered
 * Does **not** require audio
+* Does **not** require any UI or home screen
+    * The game can boot into the first level
 * Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+    * Use placeholder basic shapes in Unity
+* Does **not** require any animation for the player
+* Does **not** require the player to be able to kill enemies
+* One stationary enemy type and one patrolling enemy the moves between two editable points
+* Player death functionality and reseting position on damage
+* Replicate Mario Bros camera lookahead (offset to the right)
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
