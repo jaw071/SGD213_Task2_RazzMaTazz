@@ -15,7 +15,6 @@ The player character should be able to:
 * Run
 * Jump
 * Be damaged
-* Collect powerups
 
 ### Project Name
 Velvet Thunder
