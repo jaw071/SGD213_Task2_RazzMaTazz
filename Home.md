@@ -10,5 +10,5 @@ The handover date for the project is **11:59pm on the 31st of May, 2024.**
 These are two main areas of the project that this technical document focuses on. See below:
 
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
-* [Proposal](Proposal/index.md)
+* [Proposal](Proposal/proposal.md)
 * [Architecture](Architecture/architecture_index.md)
