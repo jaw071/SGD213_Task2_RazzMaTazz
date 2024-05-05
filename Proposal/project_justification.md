@@ -68,7 +68,7 @@ The player can collect powerups to more effectively complete levels and defeat e
 
 ---
 
-## Project Understanding After Communication
+## Project Understanding After Communication (Statement of Works)
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
@@ -138,3 +138,17 @@ We really like the mention of "silly games catch people's eyes". So we took your
 The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
 
 etc. Explain your design decisions in regards to the client's requirements.
+
+## Agreement
+[//]: # (List out the arrangement)
+Work will be completed to fit the provided Statement of Works, any work outside of this arrangement will be billed at our hourly rate, or quoted separately.
+
+## Signatures
+[//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
+| Client Name | Date | Signature |
+| --- | --- | --- |
+| Llhiza Eamont | __-__-2024 | ________ |
+
+| Team Rep. | Date | Signature |
+| --- | --- | --- |
+| James Warren | __-__-2024 | ________ |
