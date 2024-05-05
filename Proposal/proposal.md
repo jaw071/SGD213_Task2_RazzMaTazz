@@ -103,9 +103,13 @@ The player can collect powerups to more effectively complete levels and defeat e
 [//]: # (Breakdown of phases of development, with estimated delivery times)
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
 EVERYTHING HERE IS FROM THE ORIGINAL TEMPLATE AND IS PROBABLY NOT RELEVANT TO OUR PROJECT YOU HAVE TO MAKE IT BETTER OK 😄
+
 | Phase | Completion Date |
 | --- | --- |
-| Prototype | Week 13 |
+| Level One + Basic Player Movement | Week 10 |
+| Enemy Implementation + Player Damage | Week 11 |
+| Pick Ups + Level Two | Week 12 |
+| Complete Prototype | Week 13 |
 ---
 
 ## Risks
