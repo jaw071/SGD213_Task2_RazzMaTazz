@@ -147,8 +147,8 @@ Work will be completed to fit the provided Statement of Works, any work outside 
 
 | Client Name | Date | Signature |
 | --- | --- | --- |
-| Llhiza Eamont | __-__-2024 | ________ |
+| Llhiza Eamont |xx-xx-2024 | ________ |
 
 | Team Rep. | Date | Signature |
 | --- | --- | --- |
-| James Warren | __-__-2024 | ________ |
+| James Warren | xx-xx-2024 | ________ |
