@@ -83,8 +83,20 @@ The player character should be able to:
 [//]: # (What are you assuming based on client responses)
 * UI art does not need to be high quality, will just use basic Unity UI sprites
 * Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+---
+
+[//]: # (### Schedule of Rates)
+[//]: # (This is where you would list your hourly rates and time estimations)
 
 ---
+## Milestones
+[//]: # (Breakdown of phases of development, with estimated delivery times)
+[//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
+| Phase | Completion Date |
+| --- | --- |
+| Prototype | Week 13 |
+---
+
 ## Risks
 
 ### Risks
